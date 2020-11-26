@@ -1,9 +1,3 @@
-```yaml
-layout: post
-title: About
-skip_related: true
-```
-
 Hello, I’m Raj.
 
 I’m a general management leader with extensive sales, strategy, operations, finance and organizational leadership experience.
